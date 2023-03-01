@@ -1,2 +1,3 @@
 master first
 hot-fix first
+master second
